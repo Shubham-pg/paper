@@ -1,0 +1,146 @@
+{
+  "E1": {
+    "comp_raw": 8,
+    "comp_caged": 2,
+    "feas_raw": 25.0,
+    "feas_caged": 71.0,
+    "Q": 100,
+    "T": 200,
+    "injection": {
+      "gradient": {
+        "success": 100.0,
+        "ms": 0.4748769550224097,
+        "steps": 55.805,
+        "collisions": 0.0
+      },
+      "nearest_pixel": {
+        "success": 100.0,
+        "ms": 0.8909647299878998,
+        "steps": NaN,
+        "collisions": 4.5
+      },
+      "astar": {
+        "success": 100.0,
+        "ms": 2.635398844986412,
+        "steps": 2030.11,
+        "collisions": 0.0
+      },
+      "raycast": {
+        "success": 100.0,
+        "ms": 0.08242517000326188,
+        "steps": NaN,
+        "collisions": 0.0
+      }
+    },
+    "c_max": 81.0,
+    "d_cage": 91.0
+  },
+  "E2": {
+    "comp_raw": 4,
+    "comp_caged": 1,
+    "feas_raw": 7.0,
+    "feas_caged": 100.0,
+    "Q": 100,
+    "T": 200,
+    "injection": {
+      "gradient": {
+        "success": 100.0,
+        "ms": 1.3629979151119187,
+        "steps": 67.185,
+        "collisions": 0.0
+      },
+      "nearest_pixel": {
+        "success": 100.0,
+        "ms": 0.8768425849211781,
+        "steps": NaN,
+        "collisions": 1.5
+      },
+      "astar": {
+        "success": 100.0,
+        "ms": 4.009635935026381,
+        "steps": 3068.225,
+        "collisions": 0.0
+      },
+      "raycast": {
+        "success": 100.0,
+        "ms": 0.06309218003480055,
+        "steps": NaN,
+        "collisions": 0.0
+      }
+    },
+    "c_max": 85.86617279052734,
+    "d_cage": 105.86617279052734
+  },
+  "E3": {
+    "comp_raw": 6,
+    "comp_caged": 1,
+    "feas_raw": 13.0,
+    "feas_caged": 100.0,
+    "Q": 100,
+    "T": 200,
+    "injection": {
+      "gradient": {
+        "success": 100.0,
+        "ms": 0.5734329400547722,
+        "steps": 55.935,
+        "collisions": 0.0
+      },
+      "nearest_pixel": {
+        "success": 100.0,
+        "ms": 0.8759270449263568,
+        "steps": NaN,
+        "collisions": 0.0
+      },
+      "astar": {
+        "success": 100.0,
+        "ms": 2.819875555078397,
+        "steps": 2160.86,
+        "collisions": 0.0
+      },
+      "raycast": {
+        "success": 100.0,
+        "ms": 0.070681545048501,
+        "steps": NaN,
+        "collisions": 0.0
+      }
+    },
+    "c_max": 76.04275512695312,
+    "d_cage": 96.04275512695312
+  },
+  "E4": {
+    "comp_raw": 3,
+    "comp_caged": 1,
+    "feas_raw": 51.0,
+    "feas_caged": 100.0,
+    "Q": 100,
+    "T": 200,
+    "injection": {
+      "gradient": {
+        "success": 100.0,
+        "ms": 0.4973861500639032,
+        "steps": 61.295,
+        "collisions": 0.0
+      },
+      "nearest_pixel": {
+        "success": 100.0,
+        "ms": 0.8724624750084331,
+        "steps": NaN,
+        "collisions": 2.5
+      },
+      "astar": {
+        "success": 100.0,
+        "ms": 3.261393070106351,
+        "steps": 2514.005,
+        "collisions": 0.0
+      },
+      "raycast": {
+        "success": 93.5,
+        "ms": 0.09995665505812212,
+        "steps": NaN,
+        "collisions": 0.0
+      }
+    },
+    "c_max": 99.0,
+    "d_cage": 102.0
+  }
+}

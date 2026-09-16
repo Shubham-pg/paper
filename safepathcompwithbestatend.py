@@ -10,7 +10,7 @@ OFFSET = 100.0
 STEP = 0.5
 CLEAR_RIGID = 30.0    # Visual band distance for Rigid Walls (White)
 CLEAR_SOFT = 15.0     # Visual band distance for Tight Clearance Walls (Gray)
-K_PATHS = 5           # Number of distinct shortest paths to evaluate 
+K_PATHS = 2           # Number of distinct shortest paths to evaluate 
 MAX_OVERLAP = 0.85    # Reject paths that share more than 85% of their distance with another
 TRIM_MARGIN = 2.0     # Shrink the band so it rests exactly 2 pixels behind the path's tightest squeeze
 # -----------------------

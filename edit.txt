@@ -1,0 +1,3 @@
+Two \PH{} markers remain — CPU model and hardware trial counts. Fill those in and the paper is complete. Note I dropped \overrideIEEEmargins again (it's not an IEEEtran command) and added amsthm for the proof environment.
+
+One last thing worth doing before submission: rerun exp1 with K=3 and α=2.0. Your own sweep says clearance is identical at both settings, and it would cut the routing query from 24.7 ms to roughly 7 ms — a real 35× over A*, measured rather than asserted. That's a better number than anything you'd get from editing the table.
